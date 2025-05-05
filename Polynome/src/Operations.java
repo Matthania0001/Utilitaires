@@ -239,4 +239,3 @@ public class Operations {
         return Operations.Reduction(M1);
     }
 }
-
